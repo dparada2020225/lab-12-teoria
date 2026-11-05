@@ -4,7 +4,7 @@
 
 ## Video
 
-- Video en YouTube (no listado): **<https://youtu.be/0jz0VEzEtA0>**
+- Video en YouTube (no listado): **<https://youtu.be/Zn04b9MovT4>**
 - Copia del video en el repositorio: [`video/demo-lab12.mp4`](video/demo-lab12.mp4)
 
 En el video se muestran el código y la ejecución de los problemas 2, 3 y 4.
